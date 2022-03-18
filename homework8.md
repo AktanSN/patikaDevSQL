@@ -70,27 +70,27 @@ insert into employee (id, name, birthday, email) values (50, 'Eustace', '2022-01
 ````SQL
 UPDATE employee SET birthday = '2022-03-18',
 name = 'DegisenIsim',
-email = 'Degisti@gmail.com'
+email = 'Degisti@gmail.com',
 WHERE id = 50;
 
 UPDATE employee SET birthday = '2022-03-18',
 name = 'DegisenIsim',
-email = 'Degisti@gmail.com'
+email = 'Degisti@gmail.com',
 WHERE id = 49;
 
 UPDATE employee SET birthday = '2022-03-18',
 name = 'DegisenIsim',
-email = 'Degisti@gmail.com'
+email = 'Degisti@gmail.com',
 WHERE id = 48;
 
 UPDATE employee SET birthday = '2022-03-18',
 name = 'DegisenIsim',
-email = 'Degisti@gmail.com'
+email = 'Degisti@gmail.com',
 WHERE id = 47;
 
 UPDATE employee SET birthday = '2022-03-18',
 name = 'DegisenIsim',
-email = 'Degisti@gmail.com'
+email = 'Degisti@gmail.com',
 WHERE id = 46;
 ````
 
