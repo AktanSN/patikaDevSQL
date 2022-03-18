@@ -5,7 +5,7 @@ SELECT AVG(rental_rate) FROM film;
 ````
 
 
-# film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
+# 2. film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
 
 ````SQL
 SELECT COUNT(*) FROM film WHERE title LIKE 'C%';
